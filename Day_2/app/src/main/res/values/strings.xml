@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Day_2</string>
+    <string name="todo">TODO</string>
+    <string name="dog1">dog1</string>
+    <string name="dog2">dog2</string>
+    <string name="dog3">dog3</string>
+    <string name="dog4">dog4</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="name">Name</string>
+    <string name="enter_your_email_here">Enter your email here</string>
+    <string name="submit">Submit</string>
+    <string name="password">...........</string>
+</resources>

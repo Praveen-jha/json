@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Table App</string>
+    <string name="enter_number_here">Enter Number Here</string>
+    <string name="submit">Submit</string>
+</resources>

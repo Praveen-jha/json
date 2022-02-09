@@ -1,4 +1,5 @@
 
+
 # Android Development
 
 Started a journey to learn Android Development in Java .
@@ -10,17 +11,29 @@ my Android Projects what I learn in Android.
 
 ## Birthday Wish App
 
-- It Takes User Input as String.
+**- It Takes User Input as String.**
 
 
 
 
-![Birthday](https://user-images.githubusercontent.com/78073585/153126619-cb19f1d6-b696-4b84-a03e-76aff714531e.png)
+![Birthday](https://user-images.githubusercontent.com/78073585/153130024-725c6201-93d4-4c57-ab12-acdc070e8d49.png)
 
 
 
-- Shwo the name with wishing him Birthday Cake On another Activity.
+**- Shwo the name with wishing him Birthday Cake On another Activity.**
 
-______________________________________________________________________
+![birthday2](https://user-images.githubusercontent.com/78073585/153130016-a8796efa-1ee8-4697-832d-79c25e1f9c3e.png)
+## Email Sending App
+**It Takes Tow User Input as String.**
 
-![birthday2](https://user-images.githubusercontent.com/78073585/153127411-c0de1bf8-9faf-4380-a289-922615def340.png)
+**- 1st ---> Email of that person.**
+
+**- 2nd ---> Subject of Email.**
+
+
+
+![mail2](https://user-images.githubusercontent.com/78073585/153130028-2ea94d7a-2755-4d66-bc6a-aee71db635df.png)
+
+**When You Click On SEND Button It Will Show You Multiple Options From Which You Want To Send Mail .**
+
+![mail3](https://user-images.githubusercontent.com/78073585/153130031-3803f5a2-5103-4d48-8ff0-4d874694a286.png)

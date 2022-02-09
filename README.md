@@ -16,13 +16,13 @@ my Android Projects what I learn in Android.
 
 
 
-![Birthday](https://user-images.githubusercontent.com/78073585/153130024-725c6201-93d4-4c57-ab12-acdc070e8d49.png)
+![Birthday](https://user-images.githubusercontent.com/78073585/153133124-3ae38751-67eb-416e-936b-f12b7716fb15.png)
 
 
 
 **- Shwo the name with wishing him Birthday Cake On another Activity.**
 
-![birthday2](https://user-images.githubusercontent.com/78073585/153130016-a8796efa-1ee8-4697-832d-79c25e1f9c3e.png)
+![birthday2](https://user-images.githubusercontent.com/78073585/153133112-2f2aec1f-cbe9-4405-a195-4906fbccca2f.png)
 ## Email Sending App
 **It Takes Tow User Input as String.**
 
@@ -32,8 +32,8 @@ my Android Projects what I learn in Android.
 
 
 
-![mail2](https://user-images.githubusercontent.com/78073585/153130028-2ea94d7a-2755-4d66-bc6a-aee71db635df.png)
+![mail2](https://user-images.githubusercontent.com/78073585/153133126-cd0aa093-ab2e-41ac-b43b-e5d44e0dde9e.png)
 
 **When You Click On SEND Button It Will Show You Multiple Options From Which You Want To Send Mail .**
 
-![mail3](https://user-images.githubusercontent.com/78073585/153130031-3803f5a2-5103-4d48-8ff0-4d874694a286.png)
+![mail3](https://user-images.githubusercontent.com/78073585/153133128-f8bcb47b-d131-44d1-994d-a106c8351305.png)
